@@ -3,6 +3,6 @@ public class Operadores {
 
         String nomeCompleto = "Anderson" + "Teixeira";
         System.out.println(nomeCompleto);
-        System.out.println("Anderson" + 1 + 2 + 3 + 4 + 5);
+        System.out.println("Anderson" + 1 + 2 + 3 + 4 + 5+ 6);
     }
 }

@@ -3,7 +3,7 @@ public class Operadores_1 {
         String concatenacao = "?";
         System.out.println(concatenacao);
         System.out.println("1");
-        for (int i = 0; i < 10; i++) {
+        for (int i = 0; i < 11; i++) {
             concatenacao += i;
             System.out.println(concatenacao);
         }

@@ -34,6 +34,8 @@ public class Operadores_3 {
         }else{
             System.out.println("Não autorizado a comprar bebida");
         }
+
+        
     }
     
 }

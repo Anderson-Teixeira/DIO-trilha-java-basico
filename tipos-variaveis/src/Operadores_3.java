@@ -22,6 +22,18 @@ public class Operadores_3 {
 
         System.out.println("Negando a variavel booleana");
         System.out.println("Resultado da variavel: " + !variavel);
+
+
+        // Virado no Jiraya
+
+        int Idade = 15;
+        boolean isAutorizadoComprarBebida = Idade >= 18;
+        if(isAutorizadoComprarBebida){
+            System.out.println("Autorizado a comprar bebida");
+        
+        }else{
+            System.out.println("Não autorizado a comprar bebida");
+        }
     }
     
 }
